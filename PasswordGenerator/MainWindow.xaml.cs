@@ -177,7 +177,7 @@ namespace MatrixRainWpfApp
             {
                 password = password.Substring(0, passwordLength);
             }
-            else if (password.Length < passwordLength)
+            else
             {
                 password += password;
                 password = password.Substring(0, passwordLength);
