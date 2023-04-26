@@ -1,0 +1,11 @@
+C:\Users\Timur\Programming\RiderProjects\MatrixRain\MatrixRain\bin\Release\MatrixRain.dll
+C:\Users\Timur\Programming\RiderProjects\MatrixRain\MatrixRain\bin\Release\MatrixRain.pdb
+C:\Users\Timur\Programming\RiderProjects\MatrixRain\MatrixRain\obj\Release\MatrixRain.csproj.AssemblyReference.cache
+C:\Users\Timur\Programming\RiderProjects\MatrixRain\MatrixRain\obj\Release\MatrixRain.g.cs
+C:\Users\Timur\Programming\RiderProjects\MatrixRain\MatrixRain\obj\Release\MatrixRain_MarkupCompile.cache
+C:\Users\Timur\Programming\RiderProjects\MatrixRain\MatrixRain\obj\Release\MatrixRain_MarkupCompile.lref
+C:\Users\Timur\Programming\RiderProjects\MatrixRain\MatrixRain\obj\Release\MatrixRain.baml
+C:\Users\Timur\Programming\RiderProjects\MatrixRain\MatrixRain\obj\Release\MatrixRain.g.resources
+C:\Users\Timur\Programming\RiderProjects\MatrixRain\MatrixRain\obj\Release\MatrixRain.csproj.CoreCompileInputs.cache
+C:\Users\Timur\Programming\RiderProjects\MatrixRain\MatrixRain\obj\Release\MatrixRain.dll
+C:\Users\Timur\Programming\RiderProjects\MatrixRain\MatrixRain\obj\Release\MatrixRain.pdb
